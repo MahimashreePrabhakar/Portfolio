@@ -11,5 +11,7 @@ Electrical Design Engineer @ Boeing
 
 Electronics and Embedded Engineer @ Jiva Sciences 
 
+- Microfluidics & Photonics based Cell Sorting
+- Lab Automation
 
 ### Projects
