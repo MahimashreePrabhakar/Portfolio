@@ -5,7 +5,11 @@ BE in Electrical and Electronics
 
 ### Work Experience 
 Electrical Design Engineer @ Boeing 
-- Project 1
-- Project 2
+- Boeing 747: An iconic commercial airliner that has shaped the aviation industry.
+- Chinook Helicopter : A symbol of strength in various military operations.
+- C17 : A military transport aircraft renowned for its versatility and reliability.
+
+Electronics and Embedded Engineer @ Jiva Sciences 
+
 
 ### Projects
