@@ -1,4 +1,4 @@
-# Electrical & Electrinics Engineer
+# Electrical & Electronics Engineer
 
 ### Education 
 BE in Electrical and Electronics
