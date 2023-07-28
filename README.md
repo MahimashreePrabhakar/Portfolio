@@ -24,9 +24,10 @@ Developed a turret controller for the microfluidics cell sorting system, allowin
 ### Automatic Fluid Level Detection and Tracking for Microfluidic Applications
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-The paper in brief discusses the development of level controller design using embedded system methods.
+The module comprises several vital components, including a **level controller, pressure sensor, valve driver, temperature sensor, and a CAN interface**. The level controller serves the purpose of precisely regulating the fluid level within the burette. For accurate fluid readings, an **IR sensor** is strategically positioned around the burette, connected to a **motorized slide potentiometer**.To improve the accuracy of fluid level readings obtained from the level controller, a **PID** control system is implemented, effectively reducing any offset. Finally, for seamless communication with other modules, the input module utilizes the **CAN protocol**, enabling efficient data exchange and coordination across the entire system.
 
-![Level Detector Setup](/Assets/img/level.JPG)
+![level detector](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/6a272702-bb7d-4804-8e08-0637737ff330)
+
 
 ### Fuzzy logic in sports: An Illustrate Case Study in the Field of Cycling
 [Publication](https://www.researchgate.net/publication/340546663_Fuzzy_logic_in_sports_A_Review_and_an_Illustrative_Case_Study_in_the_Field_of_cycling)
