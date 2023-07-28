@@ -19,6 +19,6 @@ BE, Electrical and Electronics | RV College of Engineering (_Sep 2020_)
 ### Turret controller
 Developed a turret controller for the microfluidics cell sorting system, allowing precise microscope magnification control based on specific requirements. The design included motor control using **PWM**, integrated position control via **ADC**, and real-time transmission of position and speed data to an **OLED display** using **UART, SPI, and I2C protocols**.
 
-![Turret controller](/Assets/img/pcb.jpg)
+![Turret controller](/Assets/img/pcb.jpeg)
 
 ### Automatic Fluid Level Detection and Tracking for Microfluidic Applications
