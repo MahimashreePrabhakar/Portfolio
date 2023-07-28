@@ -22,3 +22,30 @@ Developed a turret controller for the microfluidics cell sorting system, allowin
 ![Turret controller](/Assets/img/pcb.JPG)
 
 ### Automatic Fluid Level Detection and Tracking for Microfluidic Applications
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+The paper in brief discusses the development of level controller design using embedded system methods.
+
+![Level Detector Setup](/Assets/img/level.JPG)
+
+### Fuzzy logic in sports: An Illustrate Case Study in the Field of Cycling
+[Publication](https://www.researchgate.net/publication/340546663_Fuzzy_logic_in_sports_A_Review_and_an_Illustrative_Case_Study_in_the_Field_of_cycling)
+
+The paper is a brief discussion on the development of exercise bike controller using fuzzy logic, for the use of patients with Parkinson's disease.
+
+![Fuzzy Logic](/Assets/img/Fuzzy.JPG)
+
+### Development to IOT powered fish seed grading and counting
+
+Developed a working model to sort the fish seeds according to size and count them, this can be monitored and controlled in real time from anywhere
+in the world
+Result: Reduced man power by 25% and improved the fish health and breeding by 100%
+
+![Fish Seed Grading](/Assets/img/Fish.JPG)
+
+### Development of Electric Racecar
+[Website](https://teamchimera.in/)
+
+Led a team of skilled engineers in the ambitious project of designing and fabricating a formula-style racecar, culminating in our participation in the highly competitive national-level Formula Bharat competition. Throughout the development process, we meticulously engineered every aspect of the racecar, from its aerodynamic body to its cutting-edge suspension system and high-performance drivetrain.
+
+![Racecar](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/0c6b5558-1773-450b-9685-de0cd421f553)
