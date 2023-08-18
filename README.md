@@ -29,24 +29,26 @@ The module comprises several vital components, including a **level controller, p
 ![level detector](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/6a272702-bb7d-4804-8e08-0637737ff330)
 
 
-### Fuzzy logic in sports: An Illustrate Case Study in the Field of Cycling
+###  Fuzzy Logic-Based Exercise Prescription for Parkinson's Disease Patients
 [Publication](https://www.researchgate.net/publication/340546663_Fuzzy_logic_in_sports_A_Review_and_an_Illustrative_Case_Study_in_the_Field_of_cycling)
 
-The paper is a brief discussion on the development of exercise bike controller using fuzzy logic, for the use of patients with Parkinson's disease.
+Fuzzy Logic-Based Exercise Tracking for Parkinson's Disease Patients,This project seeks to create an innovative solution for addressing the exercise needs of individuals with Parkinson's disease by applying **fuzzy logic principles** to exercise prescription. By leveraging the flexibility of fuzzy logic, the project aims to tailor exercise recommendations to the unique and fluctuating capabilities of Parkinson's patients.The paper is a brief discussion on the development of exercise bike controller using fuzzy logic for the use of patients with Parkinson's disease using **Matlab**.
 
-![Fuzzy Logic](/Assets/img/Fuzzy.JPG)
+![image](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/b83bf0fa-7088-4e5f-aa03-2f0c87c91854)
 
-### Development to IOT powered fish seed grading and counting
 
-Developed a working model to sort the fish seeds according to size and count them, this can be monitored and controlled in real time from anywhere
-in the world
+### IoT-Integrated Fish Seed Sorting and Grading System.
+
+The core objective of this project is to design, develop, and implement an innovative sorting and grading machine for fish seeds, utilizing **IoT (Internet of Things) technology**,**Motor and Pump control**,**Engineering Design Methodologies**. The project aims to revolutionize the fish farming industry by automating the seed sorting and grading process, enhancing efficiency, accuracy, and data reporting.
+
 Result: Reduced man power by 25% and improved the fish health and breeding by 100%
 
-![Fish Seed Grading](/Assets/img/Fish.JPG)
+![image](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/b7a24baf-4526-4a1f-bbfe-0c27f76cfe07)
+
 
 ### Development of Electric Racecar
 [Website](https://teamchimera.in/)
 
-Led a team of skilled engineers in the ambitious project of designing and fabricating a formula-style racecar, culminating in our participation in the highly competitive national-level Formula Bharat competition. Throughout the development process, we meticulously engineered every aspect of the racecar, from its aerodynamic body to its cutting-edge suspension system and high-performance drivetrain.
+Led a team of skilled engineers in the ambitious project of designing and fabricating a formula-style racecar, culminating in our participation in the highly competitive national-level Formula Bharat competition. Throughout the development process, we meticulously engineered every aspect of the racecar, from its **aerodynamic body**,**Robust Accumulator System**,**Intelligent Safety Circuits**, to its cutting-edge **suspension system** and **high-performance drivetrain**.
 
 ![Racecar](https://github.com/MahimashreePrabhakar/Portfolio/assets/139842289/0c6b5558-1773-450b-9685-de0cd421f553)
