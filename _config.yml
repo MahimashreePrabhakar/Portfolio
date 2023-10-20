@@ -1,8 +1,27 @@
 title: Mahimashree Prabhakar
 logo: /Assets/img/Headshot.png
 description : Electrical and Electronics Engineer
-description : Email: Mahimashreeprabhakar@gmail.com
-description : Twitter : @mahimashree_
-description : LinkeDin : https://www.linkedin.com/in/mahimashree-prabhakar-916710138/
+email: Mahimashreeprabhakar@gmail.com
+# email_title: Email (Email title override)
+#phone: Your phone number (optional)
+# phone_title: Phone (Phone title override)
+website: Your website (eg. https://google.com)(optional)
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: @mahimashree_
+#github_username:  jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: https://www.linkedin.com/in/mahimashree-prabhakar-916710138/
+#description : Email: Mahimashreeprabhakar@gmail.com
+#description : Twitter : @mahimashree_
+#description : LinkeDin : https://www.linkedin.com/in/mahimashree-prabhakar-916710138/
 #show_downloads: true
 theme : jekyll-theme-minimal
