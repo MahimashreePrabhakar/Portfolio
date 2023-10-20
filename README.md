@@ -1,6 +1,6 @@
 # Electrical & Electronics Engineer
 
-#### Technical Skills: CATIA, Enovia, Capital Designer Tools, OrCAD,C/C++, Python.
+#### Technical Skills: Electrical and Electronics Design, Capital Designer Tools, OrCAD,C/C++, Python, CATIA, Enovia.
 
 ### Education 
 BE, Electrical and Electronics | RV College of Engineering (_Sep 2020_)
