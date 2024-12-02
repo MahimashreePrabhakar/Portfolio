@@ -6,7 +6,15 @@
 BE, Electrical and Electronics | RV College of Engineering (_Sep 2020_)
 
 ### Work Experience 
-**Electrical Design Engineer @ Boeing (_June 2021 - Present_)**
+**Electrical Design Engineer @ Dcubed GmbH (_June 2024 - Present_)**
+- *ISM (In-Space Manufacturing)*:  A pioneering project aimed at manufacturing components in space.
+- Designed and developed electrical and electronics systems for a boom made of resin to support a 100W solar array, enabling the next frontier in space manufacturing.
+- *CubeSat Foldable Solar Array* : Compact solar power solutions for small satellites.
+- Engineered a foldable solar array panel design, optimizing deployment mechanisms for enhanced efficiency and reliability in CubeSat operations.
+- *FURY* : A groundbreaking project to deploy a 1kW solar array in space.
+- Spearheaded the design of electrical systems for large-scale solar deployment, addressing challenges in scalability and power delivery in orbital conditions.
+  
+**Electrical Design Engineer @ Boeing (_June 2021 - June 2024_)**
 - *Boeing 747*: An iconic commercial airliner that has shaped the aviation industry.
 - Designed and developed **aircraft electrical functional schematics**, resulting in a 20% reduction in wiring errors during assembly.
 - *Chinook Helicopter* : A symbol of strength in various military operations.
