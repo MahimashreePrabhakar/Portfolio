@@ -6,7 +6,7 @@
 BE, Electrical and Electronics | RV College of Engineering (_Sep 2020_)
 
 ### Work Experience 
-**Electrical Design Engineer @ Dcubed GmbH (_June 2024 - Present_)**
+**Electrical Design Engineer @ Dcubed GmbH (_June 2024 - December 2024_)**
 - *ISM (In-Space Manufacturing)*:  A pioneering project aimed at manufacturing components in space.
 - Designed and developed electrical and electronics systems for a boom made of resin to support a 100W solar array, enabling the next frontier in space manufacturing.
 - *CubeSat Foldable Solar Array* : Compact solar power solutions for small satellites.
